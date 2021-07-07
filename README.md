@@ -1,4 +1,4 @@
-# Dynamicmodal2
+# Dynamic modal 2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4.
 
@@ -27,4 +27,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 ## creater help
 
-For more info visit Nitesh Thapa https://nitesh-thapa.com/
+For more info visit Nitesh Thapa https://nitesh-thapa.com/ or you can mail me at niteshkumarthapa83@gmail.com
